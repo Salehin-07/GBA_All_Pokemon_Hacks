@@ -9,9 +9,9 @@
  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝
 ```
 
-### A collection of **94 GBA Pokémon ROM hacks** + **2 original games** — ready to play, no patching required.
+### A collection of **94 GBA Pokémon ROM hacks** + **5 original games** — ready to play, no patching required.
 
-![Games](https://img.shields.io/badge/Games-94_Hacks_+_2_Originals-red?style=flat-square)
+![Games](https://img.shields.io/badge/Games-94_Hacks_+_5_Originals-red?style=flat-square)
 ![Format](https://img.shields.io/badge/Format-.gba-blue?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Game_Boy_Advance-8B0000?style=flat-square)
 ![License](https://img.shields.io/badge/License-Fan_Archive-green?style=flat-square)
